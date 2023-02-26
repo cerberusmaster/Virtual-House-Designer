@@ -1,0 +1,2506 @@
+{
+    "dataVersion": 60,
+    "environments": [
+        {
+            "environmentId": 1,
+            "name": "Living Room with Garden",
+            "path": "POC_Roomset",
+            "pathLighting": "POC_Lighting",
+            "model": {
+                "wall": "SM_POC_Wallcolour",
+                "wallpaper": "SM_POC_Wallpaper",
+                "floor": "SM_POC_Floor"
+            },
+            "colour": [
+                {
+                    "environmentColourId": 0,
+                    "name": "Basic",
+                    "material": {
+                        "wall": "Wallpaint/MI_Wallpaint_White",
+                        "wallpaper": "Wallpaper/MI_Wallpaper_Modern",
+                        "floor": "Woods/Floors/MI_Modern_Floor"
+                    },
+                    "wallColourId": 0
+                },
+                {
+                    "environmentColourId": 1,
+                    "name": "Scandinavian",
+                    "material": {
+                        "wall": "Wallpaint/MI_Wallpaint_White",
+                        "wallpaper": "Wallpaper/MI_Wallpaper_Scandinavian",
+                        "floor": "Woods/Floors/MI_Scandinavian_Wood_Planks"
+                    },
+                    "wallColourId": 0
+                },
+                {
+                    "environmentColourId": 2,
+                    "name": "Trend",
+                    "material": {
+                        "wall": "Wallpaint/MI_Wallpaint_White",
+                        "wallpaper": "Wallpaper/MI_Wallpaper_Industrial",
+                        "floor": "Woods/Floors/MI_Industrial_Floor"
+                    },
+                    "wallColourId": 0
+                }
+            ],
+            "furniturePrePlaced": [
+                {
+                    "environmentColourId": 0,
+                    "items": [
+                        {
+                            "furnitureId": 4400,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.55,
+                                "y": 0.0,
+                                "z": 3.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 6500,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 0.85,
+                                "y": 0.0,
+                                "z": 3.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 4500,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.75,
+                                "y": 0.0,
+                                "z": 3.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "environmentColourId": 1,
+                    "items": [
+                        {
+                            "furnitureId": 4400,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.55,
+                                "y": 0.0,
+                                "z": 3.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 6500,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 0.85,
+                                "y": 0.0,
+                                "z": 3.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 4500,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.75,
+                                "y": 0.0,
+                                "z": 3.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "environmentColourId": 2,
+                    "items": [
+                        {
+                            "furnitureId": 4400,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.55,
+                                "y": 0.0,
+                                "z": 3.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 6500,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 0.85,
+                                "y": 0.0,
+                                "z": 3.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 4500,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.75,
+                                "y": 0.0,
+                                "z": 3.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "furnitureSlots": [
+                {
+                    "name": "Sofas",
+                    "tag": "sofa",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 2.5,
+                                "y": 0.0,
+                                "z": -0.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 2.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 3500,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3500,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3500,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Chairs",
+                    "tag": "chair",
+                    "items": [
+                        {
+                            "position": {
+                                "x": -2.9,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "position": {
+                                "x": -2.9,
+                                "y": 0.0,
+                                "z": 0.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "position": {
+                                "x": -1.4,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "position": {
+                                "x": -1.4,
+                                "y": 0.0,
+                                "z": 0.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 2700,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2700,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2700,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Floor Lamps",
+                    "tag": "floorlamp",
+                    "items": [
+                        {
+                            "position": {
+                                "x": -0.5,
+                                "y": 0.0,
+                                "z": -1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 1100,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1100,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1100,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Rugs",
+                    "tag": "rug",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 2.2,
+                                "y": 0.0,
+                                "z": 1.2
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.5,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 1400,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1400,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1400,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Coffee Tables",
+                    "tag": "sidetable",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 2.2,
+                                "y": 0.0,
+                                "z": 1.2
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 3000,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3000,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3000,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Dining Tables",
+                    "tag": "diningtable",
+                    "items": [
+                        {
+                            "position": {
+                                "x": -2.2,
+                                "y": 0.0,
+                                "z": 1.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.5,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 12300,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 12300,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 12300,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Armchairs",
+                    "tag": "armchair",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 1.0,
+                                "y": 0.0,
+                                "z": 0.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.25,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 3100,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3100,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3100,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                }
+            ],
+            "camera": {
+                "curve": [
+                    {
+                        "x": -3.2,
+                        "y": 0,
+                        "z": 1.8
+                    },
+                    {
+                        "x": -3.2,
+                        "y": 0,
+                        "z": -1.8
+                    },
+                    {
+                        "x": 3.2,
+                        "y": 0,
+                        "z": -1.8
+                    },
+                    {
+                        "x": 3.2,
+                        "y": 0,
+                        "z": 1.8
+                    }
+                ],
+                "positions": {
+                    "fov": 80,
+                    "lookat": {
+                        "x": 0.0,
+                        "y": 0.9,
+                        "z": 0.0
+                    },
+                    "corners": [
+                        {
+                            "x": 3.2,
+                            "y": 1.5,
+                            "z": 1.8
+                        },
+                        {
+                            "x": 3.2,
+                            "y": 1.5,
+                            "z": 0.0
+                        },
+                        {
+                            "x": 3.2,
+                            "y": 1.5,
+                            "z": -1.8
+                        },
+                        {
+                            "x": 0.0,
+                            "y": 1.5,
+                            "z": -1.8
+                        },
+                        {
+                            "x": -3.2,
+                            "y": 1.5,
+                            "z": -1.8
+                        },
+                        {
+                            "x": -3.2,
+                            "y": 1.5,
+                            "z": 0.0
+                        },
+                        {
+                            "x": -3.2,
+                            "y": 1.5,
+                            "z": 1.8
+                        },
+                        {
+                            "x": 0.0,
+                            "y": 1.5,
+                            "z": 1.8
+                        }
+                    ],
+                    "cornerStartId": 6
+                },
+                "fov": 60,
+                "initialRotation": {
+                    "theta": 0.0,
+                    "phi": 1.57,
+                    "zoom": 1.0
+                }
+            },
+            "floorColourIdDefault": 1,
+            "wallColour": [
+                {
+                    "hash": "#ede8e4",
+                    "hex": "0xede8e4"
+                }
+            ],
+            "floorColour": [
+                {
+                    "path": "floor_modern"
+                },
+                {
+                    "path": "floor_skandinavian"
+                },
+                {
+                    "path": "floor_industrial"
+                }
+            ]
+        },
+        {
+            "environmentId": 3,
+            "name": "Living Room with a Georgian Architecture",
+            "path": "Altbau-Stil_Roomset",
+            "pathLighting": "Altbau_Stil_Lighting",
+            "model": {
+                "wall": "SM_Altbau-Stil_Wallcolour",
+                "wallpaper": "SM_Altbau-Stil_Wallpaper",
+                "floor": "SM_Altbau-Stil_Floor"
+            },
+            "colour": [
+                {
+                    "environmentColourId": 0,
+                    "name": "Basic",
+                    "material": {
+                        "wall": "Wallpaint/MI_Wallpaint_White",
+                        "wallpaper": "Wallpaper/MI_Wallpaper_Modern",
+                        "floor": "Woods/Floors/MI_Modern_Floor"
+                    }
+                },
+                {
+                    "environmentColourId": 1,
+                    "name": "Scandinavian",
+                    "material": {
+                        "wall": "Wallpaint/MI_Wallpaint_White",
+                        "wallpaper": "Wallpaper/MI_Wallpaper_Scandinavian",
+                        "floor": "Woods/Floors/MI_Scandinavian_Wood_Planks"
+                    }
+                },
+                {
+                    "environmentColourId": 2,
+                    "name": "Trend",
+                    "material": {
+                        "wall": "Wallpaint/MI_Wallpaint_White",
+                        "wallpaper": "Wallpaper/MI_Wallpaper_Industrial",
+                        "floor": "Woods/Floors/MI_Industrial_Floor"
+                    }
+                }
+            ],
+            "furniturePrePlaced": [
+                {
+                    "environmentColourId": 0,
+                    "items": [
+                        {
+                            "furnitureId": 5800,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": 0.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5900,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5100,
+                            "furnitureColourId": 3,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": 2.4
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5000,
+                            "furnitureColourId": 3,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": -0.2
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "environmentColourId": 1,
+                    "items": [
+                        {
+                            "furnitureId": 5800,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": 0.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5900,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5100,
+                            "furnitureColourId": 3,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": 2.4
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5000,
+                            "furnitureColourId": 3,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": -0.2
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "environmentColourId": 2,
+                    "items": [
+                        {
+                            "furnitureId": 5800,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": 0.6
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5900,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5100,
+                            "furnitureColourId": 3,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": 2.4
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5000,
+                            "furnitureColourId": 3,
+                            "position": {
+                                "x": 2.8,
+                                "y": 0.0,
+                                "z": -0.2
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "furnitureSlots": [
+                {
+                    "name": "Sofas",
+                    "tag": "sofa",
+                    "items": [
+                        {
+                            "position": {
+                                "x": -1.5,
+                                "y": 0.0,
+                                "z": 1.25
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.5,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 3400,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3400,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3400,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Chairs",
+                    "tag": "chair",
+                    "items": [
+                        {
+                            "position": {
+                                "x": -0.1,
+                                "y": 0.0,
+                                "z": -2.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "position": {
+                                "x": 0.9,
+                                "y": 0.0,
+                                "z": -2.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "position": {
+                                "x": -0.1,
+                                "y": 0.0,
+                                "z": -0.75
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "position": {
+                                "x": 0.9,
+                                "y": 0.0,
+                                "z": -0.75
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 2700,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2700,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2700,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Floor Lamps",
+                    "tag": "floorlamp",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 1.0,
+                                "y": 0.0,
+                                "z": 4.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.75,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 1100,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1100,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1100,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Rugs",
+                    "tag": "rug",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 0.5,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 1500,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1500,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1500,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Coffee Tables",
+                    "tag": "sidetable",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 0.5,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 3000,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3000,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3000,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Dining Tables",
+                    "tag": "diningtable",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 0.4,
+                                "y": 0.0,
+                                "z": -1.5
+                            },
+                            "rotation": {
+                                "x": 0.4,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 12300,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 12300,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 12300,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Armchairs",
+                    "tag": "armchair",
+                    "items": [
+                        {
+                            "position": {
+                                "x": -0.4,
+                                "y": 0.0,
+                                "z": 3.85
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.75,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 3100,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3100,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3100,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                }
+            ],
+            "camera": {
+                "curve": [
+                    {
+                        "x": -2.1,
+                        "y": 0,
+                        "z": 2.5
+                    },
+                    {
+                        "x": -2.1,
+                        "y": 0,
+                        "z": -2.5
+                    },
+                    {
+                        "x": 2.1,
+                        "y": 0,
+                        "z": -2.5
+                    },
+                    {
+                        "x": 2.1,
+                        "y": 0,
+                        "z": 2.5
+                    }
+                ],
+                "positions": {
+                    "fov": 80,
+                    "lookat": {
+                        "x": 0.0,
+                        "y": 0.9,
+                        "z": 0.0
+                    },
+                    "corners": [
+                        {
+                            "x": 2.1,
+                            "y": 1.5,
+                            "z": 2.5
+                        },
+                        {
+                            "x": 2.1,
+                            "y": 1.5,
+                            "z": 0.0
+                        },
+                        {
+                            "x": 2.1,
+                            "y": 1.5,
+                            "z": -2.5
+                        },
+                        {
+                            "x": 0.0,
+                            "y": 1.5,
+                            "z": -2.5
+                        },
+                        {
+                            "x": -2.1,
+                            "y": 1.5,
+                            "z": -2.5
+                        },
+                        {
+                            "x": -2.1,
+                            "y": 1.5,
+                            "z": 0.0
+                        },
+                        {
+                            "x": -2.1,
+                            "y": 1.5,
+                            "z": 2.5
+                        },
+                        {
+                            "x": 0.0,
+                            "y": 1.5,
+                            "z": 2.5
+                        }
+                    ],
+                    "cornerStartId": 2
+                },
+                "fov": 60,
+                "initialRotation": {
+                    "theta": 1.4,
+                    "phi": 1.57,
+                    "zoom": 1.0
+                }
+            },
+            "floorColourIdDefault": 3
+        },
+        {
+            "environmentId": 4,
+            "name": "Living Room with City View",
+            "path": "Stadtblick_Roomset",
+            "pathLighting": "Stadtblick_Lighting",
+            "model": {
+                "wall": "SM_Stadtblick_Wallcolour",
+                "wallpaper": "SM_Stadtblick_Wallpaper",
+                "floor": "SM_Stadtblick_Floor"
+            },
+            "colour": [
+                {
+                    "environmentColourId": 0,
+                    "name": "Basic",
+                    "material": {
+                        "wall": "Wallpaint/MI_Wallpaint_White",
+                        "wallpaper": "Wallpaper/MI_Wallpaper_Modern",
+                        "floor": "Woods/Floors/MI_Modern_Floor"
+                    }
+                },
+                {
+                    "environmentColourId": 1,
+                    "name": "Scandinavian",
+                    "material": {
+                        "wall": "Wallpaint/MI_Wallpaint_White",
+                        "wallpaper": "Wallpaper/MI_Wallpaper_Scandinavian",
+                        "floor": "Woods/Floors/MI_Scandinavian_Wood_Planks"
+                    }
+                },
+                {
+                    "environmentColourId": 2,
+                    "name": "Trend",
+                    "material": {
+                        "wall": "Wallpaint/MI_Wallpaint_White",
+                        "wallpaper": "Wallpaper/MI_Wallpaper_Industrial",
+                        "floor": "Woods/Floors/MI_Industrial_Floor"
+                    }
+                }
+            ],
+            "furniturePrePlaced": [
+                {
+                    "environmentColourId": 0,
+                    "items": [
+                        {
+                            "furnitureId": 6100,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 1.7,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5200,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.6,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5200,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 3.2,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5300,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "environmentColourId": 1,
+                    "items": [
+                        {
+                            "furnitureId": 6100,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 1.7,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5200,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.6,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5200,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 3.2,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5300,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "environmentColourId": 2,
+                    "items": [
+                        {
+                            "furnitureId": 6100,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 1.7,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5200,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 2.6,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5200,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 3.2,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "furnitureId": 5300,
+                            "furnitureColourId": 1,
+                            "position": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": -2.65
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "furnitureSlots": [
+                {
+                    "name": "Sofas",
+                    "tag": "sofa",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 3.0,
+                                "y": 0.0,
+                                "z": 1.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 3500,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3500,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 3500,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Chairs",
+                    "tag": "chair",
+                    "items": [
+                        {
+                            "position": {
+                                "x": -2.9,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "position": {
+                                "x": -2.9,
+                                "y": 0.0,
+                                "z": 0.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "position": {
+                                "x": -1.1,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "position": {
+                                "x": -1.1,
+                                "y": 0.0,
+                                "z": 0.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 1.5,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 2700,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2700,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2700,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Floor Lamps",
+                    "tag": "floorlamp",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 1.0,
+                                "y": 0.0,
+                                "z": 1.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 1200,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1200,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1200,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Rugs",
+                    "tag": "rug",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 2.5,
+                                "y": 0.0,
+                                "z": -0.75
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.5,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 1400,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1400,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 1400,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Coffee Tables",
+                    "tag": "sidetable",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 2.5,
+                                "y": 0.0,
+                                "z": -0.75
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 2000,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2000,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2000,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Dining Tables",
+                    "tag": "diningtable",
+                    "items": [
+                        {
+                            "position": {
+                                "x": -2.0,
+                                "y": 0.0,
+                                "z": 1.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.5,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 12300,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 12300,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 12300,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Armchairs",
+                    "tag": "armchair",
+                    "items": [
+                        {
+                            "position": {
+                                "x": 1.0,
+                                "y": 0.0,
+                                "z": 0.5
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.75,
+                                "z": 0.0
+                            }
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "furnitureId": 2800,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2800,
+                            "furnitureColourId": 1
+                        },
+                        {
+                            "furnitureId": 2800,
+                            "furnitureColourId": 1
+                        }
+                    ]
+                }
+            ],
+            "camera": {
+                "curve": [
+                    {
+                        "x": -3.0,
+                        "y": 0,
+                        "z": 2.3
+                    },
+                    {
+                        "x": -3.0,
+                        "y": 0,
+                        "z": -1.4
+                    },
+                    {
+                        "x": 4.1,
+                        "y": 0,
+                        "z": -1.4
+                    },
+                    {
+                        "x": 4.1,
+                        "y": 0,
+                        "z": 2.3
+                    }
+                ],
+                "positions": {
+                    "fov": 80,
+                    "lookat": {
+                        "x": 0.55,
+                        "y": 0.9,
+                        "z": 0.45
+                    },
+                    "corners": [
+                        {
+                            "x": 4.1,
+                            "y": 1.5,
+                            "z": 2.3
+                        },
+                        {
+                            "x": 4.1,
+                            "y": 1.5,
+                            "z": 0.45
+                        },
+                        {
+                            "x": 4.1,
+                            "y": 1.5,
+                            "z": -1.4
+                        },
+                        {
+                            "x": 0.55,
+                            "y": 1.5,
+                            "z": -1.4
+                        },
+                        {
+                            "x": -3.0,
+                            "y": 1.5,
+                            "z": -1.4
+                        },
+                        {
+                            "x": -3.0,
+                            "y": 1.5,
+                            "z": 0.45
+                        },
+                        {
+                            "x": -3.0,
+                            "y": 1.5,
+                            "z": 2.3
+                        },
+                        {
+                            "x": 0.55,
+                            "y": 1.5,
+                            "z": 2.3
+                        }
+                    ],
+                    "cornerStartId": 0
+                },
+                "fov": 60,
+                "initialRotation": {
+                    "theta": 3.9,
+                    "phi": 1.57,
+                    "zoom": 2.0
+                }
+            },
+            "floorColourIdDefault": 1
+        }
+    ],
+    "furnitureItems": [
+        {
+            "furnitureId": 1100,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Schwarz, Metall",
+                    "tags": "floorlamp",
+                    "path": "Floorlamps/EINR-0001_Floorlamp_StehleuchteBlake_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Lamp Blake",
+            "width": "125",
+            "depth": "30",
+            "height": "125",
+            "description": "Das minimalistische Design macht diese dimmbare kabellose LED-Lampe Loki zu einem Blickfang. Die Stehlampe Loki kann \u00fcberall im Raum als Funktions- oder Stimmungslicht platziert werden. "
+        },
+        {
+            "furnitureId": 1200,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz, bronze, grau",
+                    "materialName": "Metall, Rauchglas, anitk Bronze",
+                    "tags": "floorlamp",
+                    "path": "Floorlamps/EINR-0002_Floorlamp_StehleuchteLoki_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Lamp Loki",
+            "width": "155",
+            "depth": "28",
+            "height": "155",
+            "description": "Durch ihren dezenten Rauchglas Schirm mit antik Bronze Akzenten verleiht die Stehlampe Loki Ihrem Zuhause das perfekte Etwas. Loki f\u00fcgt sich in jedes Design harmonisch ein."
+        },
+        {
+            "furnitureId": 1300,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "grau",
+                    "materialName": "Stoff, Anthracite",
+                    "tags": "rug",
+                    "path": "Rugs/EINR-0019_Carpet_TeppichCisco_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Rug Cisco",
+            "width": "-",
+            "depth": "250",
+            "height": "-",
+            "description": "Das weiche Material von Teppich Cisco l\u00e4dt zu gen\u00fcsslichen Ruhemomenten ein. Durch seine quadratische Form ist Cisco an vielen Orten einsetzbar."
+        },
+        {
+            "furnitureId": 1400,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz/beige",
+                    "materialName": "Stoff",
+                    "tags": "rug",
+                    "path": "Rugs/EINR-0018_Carpet_TeppichElisa_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Rug Elisa",
+            "width": "-",
+            "depth": "160",
+            "height": "-",
+            "description": "Ob Skandinavisch, Modern oder Boho \u2013 Elisa passt durch seine Rauten Muster und schlichten Farben in jeden Stil. Dank seiner weichen Struktur l\u00e4dt Elisa zum Entspannen ein. "
+        },
+        {
+            "furnitureId": 1500,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "taupe",
+                    "materialName": "Stoff",
+                    "tags": "rug",
+                    "path": "Rugs/EINR-0020_Carpet_TeppichFonz_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Rug Fonz",
+            "width": "-",
+            "depth": "160",
+            "height": "-",
+            "description": "Dank seiner 230x160 cm gro\u00dfen und super weichen Oberfl\u00e4che bietet Fonz Luxus pur \u2013 den ganzen Tag \u00fcber. Mit Fonz haben Sie es immer kuschelig weich vom Aufstehen bis zum Schlafengehen."
+        },
+        {
+            "furnitureId": 1600,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "grau",
+                    "materialName": "Stoff, Farbe 13",
+                    "tags": "rug",
+                    "path": "Rugs/EINR-0021_Carpet_TeppichLago_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Rug Lago",
+            "width": "-",
+            "depth": "250",
+            "height": "-",
+            "description": "Mit seiner super weichen und kuscheligen Struktur m\u00f6chten Sie an keinen anderen Ort mehr. Lago schafft den perfekten Platz f\u00fcr jeden \u2013 und das \u00fcberall."
+        },
+        {
+            "furnitureId": 1700,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Metall, Mangoholz",
+                    "tags": "sidetable",
+                    "path": "Sidetables/EINR-0084_Bundles_BeistelltischHamptonAylaBeige_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Coffee Table Hampton",
+            "width": "35",
+            "depth": "70",
+            "height": "35",
+            "description": "Durch seine geraden Linien und dem eingefassten langlebigen schwarzem Mangoholz ist Beistelltisch Hampton ein richtiger Hingucker in Ihrer Wohnung. Kombiniert mit der Vase Ayla und dem Kerzenleuchter Beige vervollst\u00e4ndigt sich der Look."
+        },
+        {
+            "furnitureId": 1800,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Metall, Mangoholz",
+                    "tags": "sidetable",
+                    "path": "Sidetables/EINR-0085_Bundles_BeistelltischHamptonVaseGusta_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Coffee Table Hampton",
+            "width": "35",
+            "depth": "70",
+            "height": "35",
+            "description": "Durch seine geraden Linien und dem eingefassten langlebigen Mangoholz ist Beistelltisch Hampton ein richtiger Hingucker in Ihrer Wohnung. Kombiniert mit der Vase und dem Kerzenleuchter Gusta vervollst\u00e4ndigt sich der Look."
+        },
+        {
+            "furnitureId": 1900,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Metall, Mangoholz",
+                    "tags": "sidetable",
+                    "path": "Sidetables/EINR-0086_Bundles_BeistelltischHamptonHalo01_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Coffee Table Hampton",
+            "width": "35",
+            "depth": "70",
+            "height": "35",
+            "description": "Durch seine geraden Linien und dem eingefassten langlebigen Mangoholz ist Beistelltisch Hampton ein richtiger Hingucker in Ihrer Wohnung. Kombiniert mit den Kerzenleuchtern Halo und 01 vervollst\u00e4ndigt sich der Look. "
+        },
+        {
+            "furnitureId": 2000,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Metall",
+                    "tags": "sidetable",
+                    "path": "Sidetables/EINR-0087_Bundles_BeistelltischClaroAylaGusta_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Coffee Table Claro",
+            "width": "45,5 / 52",
+            "depth": "40/49,5",
+            "height": "45,5 / 52",
+            "description": "Durch seine dezenten Linien und die zwei ineinander passenden Elemente liegen Sie mit dem Beistelltisch Claro nie falsch. Das zeitlose Design passt zu jeder Stilrichtung. Kombiniert mit der Vase Ayla und dem Kerzenleuchter Gusta vervollst\u00e4ndigt sich der Look."
+        },
+        {
+            "furnitureId": 2100,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Metall",
+                    "tags": "sidetable",
+                    "path": "Sidetables/EINR-0088_Bundles_BeistelltischClaro01Halo_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Coffee Table Claro",
+            "width": "45,5 / 52",
+            "depth": "40/49,5",
+            "height": "45,5 / 52",
+            "description": "Durch seine dezenten Linien und die zwei ineinander passenden Elemente liegen Sie mit dem Beistelltisch Claro nie falsch. Das zeitlose Design passt zu jeder Stilrichtung. Kombiniert mit der Vase 01 und dem Kerzenleuchter Halo vervollst\u00e4ndigt sich der Look."
+        },
+        {
+            "furnitureId": 2200,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Metall",
+                    "tags": "sidetable",
+                    "path": "Sidetables/EINR-0089_Bundles_BeistelltischClaro01Beige_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Coffee Table Claro",
+            "width": "45,5 / 52",
+            "depth": "40/49,5",
+            "height": "45,5 / 52",
+            "description": "Durch seine dezenten Linien und die zwei ineinander passenden Elemente liegen Sie mit dem Beistelltisch Claro nie falsch. Das zeitlose Design passt zu jeder Stilrichtung. Kombiniert mit den Kerzenleuchtern 01 und Beige vervollst\u00e4ndigt sich der Look."
+        },
+        {
+            "furnitureId": 2300,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Mangoholz",
+                    "tags": "sidetable",
+                    "path": "Sidetables/EINR-0013_TVboard_TV-SchrankCarter_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Tv-Schrank Carter",
+            "width": "52",
+            "depth": "42",
+            "height": "52",
+            "description": "Lassen Sie Ihr Wohnzimmer in neuen Ebenen Strahlen mit dem TV-Schrank Carter. Ob mit knalliger Farbe und dezenten T\u00f6nen kombiniert, Carter kann mit allem Mithalten. "
+        },
+        {
+            "furnitureId": 2400,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "gelb",
+                    "materialName": "Stoff/Metall, Chameleon PG5 401",
+                    "tags": "sofa",
+                    "path": "Sofas/EINR-0017_Sofa_SofaChapelle_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Sofa Chapelle",
+            "width": "91",
+            "depth": "235",
+            "height": "91",
+            "description": "Sofa Chapelle passt zu vielen verschiedenen Wohnstilen. Das Design des modernen Elementsofas Chapelle ist schlank, luftig und dank der subtilen Kurven unglaublich zeitgem\u00e4\u00df. Die Kissen Basoo, Bubblegum, Champagne und Gin Tonic komplettieren den Look."
+        },
+        {
+            "furnitureId": 2500,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "grau",
+                    "materialName": "Stoff/Metall, F1-05-Sneak Naturel 01",
+                    "tags": "sofa",
+                    "path": "Sofas/EINR-0016_Sofa_SofaSilken_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Sofa Silken",
+            "width": "91",
+            "depth": "213",
+            "height": "91",
+            "description": "Mit seiner dezente graue Farbe und den weichen Kurven passt Sofa Silken zu jedem Wohnstil und in jedes Wohnzimmer. Silken ist unglaublich zeitlos und wird in vielen Jahren noch an Ihrer Seite sein. Die Kissen Finn, Zaya und Alpino komplettieren den Look."
+        },
+        {
+            "furnitureId": 2600,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "grau",
+                    "materialName": "Stoff/Metall, Nero Lightgrey 1060",
+                    "tags": "sofa",
+                    "path": "Sofas/EINR-0015_Sofa_SofaVik_Trendhopper",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Sofa Vik",
+            "width": "85",
+            "depth": "270",
+            "height": "85",
+            "description": "Ob Industrial, Skandinavisch, Modern oder Traditionell Sofa Vik sieht mit jedem Stil toll aus. Sofa Vik bietet durch seine zwei Ecken viel Entspannungsraum. Die Kissen Alpino und Siza komplettieren den Look."
+        },
+        {
+            "furnitureId": 13300,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "gelb / hellgrau",
+                    "materialName": "Leder Tend Saddle Brown / Stoff Future hellgrau",
+                    "tags": "chair",
+                    "path": "Chairs/BertPlantagie_Nevio_V_1441_Grey-Yellow",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Chair Bert Plantagie Nevio V 1441",
+            "width": "94",
+            "depth": "48",
+            "height": "94",
+            "description": "Der Stuhl Nevio V 1441 verbessert jedes Meeting durch einen hohen Sitzkomfort."
+        },
+        {
+            "furnitureId": 13200,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "dunkelblau",
+                    "materialName": "Leder Bold Blue LB1011",
+                    "tags": "chair",
+                    "path": "Chairs/BertPlantagie_Maple_Darkblue",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Chair Bert Plantagie Maple",
+            "width": "87,5",
+            "depth": "46",
+            "height": "87,5",
+            "description": "Der organisch aussehende, gerade geformte Stuhl Maple wirkt beinahe modelliert und ist dank seiner Einfachheit ein echter Eyecatcher, der von Frans Schrofer entworfen wurde. Im letzten Fall sieht die Armlehne dieses M\u00f6belst\u00fccks aus, als w\u00e4re sie abgeschnitten worden."
+        },
+        {
+            "furnitureId": 14400,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "dunkelbraun",
+                    "materialName": "Leder A-India-Schoko",
+                    "tags": "chair",
+                    "path": "Chairs/Mondo_Floro_Darkbrown",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Chair Mondo Floro",
+            "width": "94",
+            "depth": "50",
+            "height": "94",
+            "description": "Der Stuhl Floro macht Dein B\u00fcro mit dem perfekten Meetingstuhl komplett."
+        },
+        {
+            "furnitureId": 12400,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz /  silber",
+                    "materialName": "Spraystone Quartz",
+                    "tags": "diningtable",
+                    "path": "Dining_Tables/Mondo_Tiramo_108_Black-Silver",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Table Mondo Tiramo 108",
+            "width": "220",
+            "depth": "76",
+            "height": "220",
+            "description": "Sie w\u00fcnschen sich einen topmodernen Esstisch? Dann ist der Esstisch Tiramo von MONDO genau der Richtige f\u00fcr Sie. Der Tisch setzt sich aus einem Edelstahl-Gestell mit zwei S\u00e4ulen und einer Bodenplatte zusammen, die ebenfalls aus Edelstahl besteht."
+        },
+        {
+            "furnitureId": 12300,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "Wildeiche",
+                    "materialName": "Wildeiche ge\u00f6lt",
+                    "tags": "diningtable",
+                    "path": "Dining_Tables/Mondo_Tavolo_Oak",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Table Mondo Tavolo",
+            "width": "200",
+            "depth": "76,5",
+            "height": "200",
+            "description": "Das moderne Tisch-System MONDO TAVOLO ist in Holz und Furnier lieferbar. Zur Auswahl stehen 22 Holzfarben und sechs Holzarten. Vierfu\u00dftische mit durchgesto\u00dfenen Stollenbeinen, ein umlaufendes U-Gestell oder eine durchgehende Tischplatte sind w\u00e4hlbar."
+        },
+        {
+            "furnitureId": 2700,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "brown",
+                    "materialName": "Rattan",
+                    "tags": "chair",
+                    "path": "Chairs/WAYF-0001_BCMH3386_Chair_VolkPatiowithCushion_BayIsleHome",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Chair Volk Patio with Cushion",
+            "width": "106",
+            "depth": "55",
+            "height": "106",
+            "description": "A casual yet chic dining chair realized in handwoven rattan encasing a solid mahogany carved frame. The dark natural tones contrast elegantly with the included seat cushion. Tiebacks smartly keep the cushion in place but simultaneously add detail."
+        },
+        {
+            "furnitureId": 2800,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "chocolate",
+                    "materialName": "Chocolate Faux Leather",
+                    "tags": "armchair",
+                    "path": "Armchairs/WAYF-0002_CHLH1188_Chair_MusgroveExecutive_CharltonHome",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Chair Musgrove Charlton Executive",
+            "width": "100",
+            "depth": "68",
+            "height": "100",
+            "description": "Get your work done in style with this classic armchair, showcasing faux leather upholstery, and a rolling design. Set it behind a mahogany desk for a traditional look."
+        },
+        {
+            "furnitureId": 3000,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "brown / white",
+                    "materialName": "Wood",
+                    "tags": "sidetable",
+                    "path": "Sidetables/WAYF-0004_W001090002_Sidetable_Gildford24TallPedestal_BirchLane",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Coffee Table Gildford 24'' Tall Solid Wood Pedestal",
+            "width": "61",
+            "depth": "66",
+            "height": "61",
+            "description": "Antique inspiration and architectural appeal meet in this on-trend end table. Crafted from solid wood with oak veneers, this piece is founded atop a pedestal base for an airy and weathered look."
+        },
+        {
+            "furnitureId": 3100,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "blue",
+                    "materialName": "Velvet",
+                    "tags": "armchair",
+                    "path": "Armchairs/WAYF-0005_HOHM5645_Armchair_LenitaChesterfield_HouseofHampton",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Armchair Lenita Upholstered Chesterfield",
+            "width": "77",
+            "depth": "77",
+            "height": "77",
+            "description": "Rounding out your decor while providing sensible seating arrangements in small spaces, side chairs offer style and versatility to any interior design.  The Chesterfield design completes the space with eye-catching silver nailhead trim accents, it\u2019s the perfect pick for any glam-inspired space."
+        },
+        {
+            "furnitureId": 3300,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "orange",
+                    "materialName": "Cotton",
+                    "tags": "armchair",
+                    "path": "Armchairs/WAYF-0007_Armchair_RichellUpholstered_BungalowRose",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Armchair Richell Upholstered Swivel Barrel",
+            "width": "76",
+            "depth": "86",
+            "height": "76",
+            "description": ""
+        },
+        {
+            "furnitureId": 3400,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "blue",
+                    "materialName": "Regal Navy Velvet",
+                    "tags": "sofa",
+                    "path": "Sofas/WAYF-0008_Sofa_RegalPerry_OpheliaandCo",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Bench Regal Navy Peery",
+            "width": "46",
+            "depth": "51",
+            "height": "46",
+            "description": "Benches are the unsung heroes of almost any room. Capable of anchoring a color scheme, dividing a space, and providing extra seating all at once, they're experts at versatility."
+        },
+        {
+            "furnitureId": 3500,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "mint",
+                    "materialName": "Mint Polyester Blend",
+                    "tags": "sofa",
+                    "path": "Sofas/WAYF-0009_Sofa_Eura52Settee_JossandMain",
+                    "price": 0,
+                    "sku": ""
+                }
+            ],
+            "isARWall": false,
+            "name": "Sofa Eura 52'' Settee",
+            "width": "76",
+            "depth": "84",
+            "height": "76",
+            "description": "Our simply styled chaise boasts clean, tasteful lines, beautifully rounded arms, and eye-catching turned legs along a number of other fine points to ensure the quality design features shine through in any room it is placed. Hand upholstered with fabric. "
+        },
+        {
+            "furnitureId": 4400,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz / Holz",
+                    "materialName": "Lack / Kerneiche / Glas",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Hartmann_Caya-Haya_7170-V62_A_Lowboard_Black_Wood",
+                    "price": 999,
+                    "sku": "0015750003"
+                }
+            ],
+            "isARWall": false,
+            "name": "Wohnwand Hartmann Haya Lowboard",
+            "width": 222,
+            "depth": 50,
+            "height": 49,
+            "description": "Eine besondere Formensprache wird in der H\u00fclsta Modellreihe Navis mit besonderen Akzentausf\u00fchrungen verbunden. Die zweiteilige Wohnwand \u00fcberzeugt in der puristischen Ausf\u00fchrung in Reinwei\u00df. Diese Kombination kommt somit besonders gut vor W\u00e4nden mit einer kr\u00e4ftigen Wandfarbe zur Geltung. "
+        },
+        {
+            "furnitureId": 6500,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz / Holz",
+                    "materialName": "Lack / Kerneiche / Glas",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Hartmann_Caya-Haya_7170-V62_A_Cabinet_Black_Wood",
+                    "price": 999,
+                    "sku": "0015750003"
+                }
+            ],
+            "isARWall": true,
+            "name": "Wohnwand Hartmann Haya H\u00e4ngevitrine",
+            "width": 118,
+            "depth": 79,
+            "height": 39,
+            "description": "Eine besondere Formensprache wird in der H\u00fclsta Modellreihe Navis mit besonderen Akzentausf\u00fchrungen verbunden. Die zweiteilige Wohnwand \u00fcberzeugt in der puristischen Ausf\u00fchrung in Reinwei\u00df. Diese Kombination kommt somit besonders gut vor W\u00e4nden mit einer kr\u00e4ftigen Wandfarbe zur Geltung. "
+        },
+        {
+            "furnitureId": 4500,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "Holz",
+                    "materialName": "Kerneiche",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Hartmann_Caya-Haya_7170-V62_A_Shelf_Wood",
+                    "price": 999,
+                    "sku": "0015750003"
+                }
+            ],
+            "isARWall": false,
+            "name": "Wohnwand Hartmann Haya Wandregal",
+            "width": 184,
+            "depth": 19,
+            "height": 20,
+            "description": "Eine besondere Formensprache wird in der H\u00fclsta Modellreihe Navis mit besonderen Akzentausf\u00fchrungen verbunden. Die zweiteilige Wohnwand \u00fcberzeugt in der puristischen Ausf\u00fchrung in Reinwei\u00df. Diese Kombination kommt somit besonders gut vor W\u00e4nden mit einer kr\u00e4ftigen Wandfarbe zur Geltung. "
+        },
+        {
+            "furnitureId": 5800,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "Holz",
+                    "materialName": "Asteiche",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Lowboard_Wood",
+                    "price": 999,
+                    "sku": "0042800011"
+                }
+            ],
+            "isARWall": false,
+            "name": "Wohnwand Mondo \"Artist\" Lowboard",
+            "width": 210,
+            "depth": 52,
+            "height": 49,
+            "description": "DIE L\u00d6SUNG aus einem gro\u00dfz\u00fcgigen Regal und der modernen TV-Wohnkombination bietet einen Zweiklang aus der nat\u00fcrlichen Asteiche und dem modernen grau. So stellt sich eine angenehme Wohlf\u00fchlatmosph\u00e4re ein, die durch diverse Komfortfunktionen, wie z. B. den Tablarauszug noch einmal gesteigert wird."
+        },
+        {
+            "furnitureId": 5900,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "Holz",
+                    "materialName": "Asteiche",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Shelf_Wood",
+                    "price": 999,
+                    "sku": "0042800011"
+                }
+            ],
+            "isARWall": false,
+            "name": "Wohnwand Mondo \"Artist\" Wandregal",
+            "width": 210,
+            "depth": 17,
+            "height": 20,
+            "description": "DIE L\u00d6SUNG aus einem gro\u00dfz\u00fcgigen Regal und der modernen TV-Wohnkombination bietet einen Zweiklang aus der nat\u00fcrlichen Asteiche und dem modernen grau. So stellt sich eine angenehme Wohlf\u00fchlatmosph\u00e4re ein, die durch diverse Komfortfunktionen, wie z. B. den Tablarauszug noch einmal gesteigert wird."
+        },
+        {
+            "furnitureId": 5100,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Highboard_Black",
+                    "price": 999,
+                    "sku": "0042800011"
+                },
+                {
+                    "furnitureColourId": 2,
+                    "name": "grau",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Highboard_Lightgrey",
+                    "price": 999,
+                    "sku": "0042800011"
+                },
+                {
+                    "furnitureColourId": 3,
+                    "name": "olive",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Highboard_Olive",
+                    "price": 999,
+                    "sku": "0042800011"
+                },
+                {
+                    "furnitureColourId": 4,
+                    "name": "lachsfarben",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Highboard_Salmon",
+                    "price": 999,
+                    "sku": "0042800011"
+                }
+            ],
+            "isARWall": false,
+            "name": "Wohnwand Mondo Artist Vitrine",
+            "width": 105,
+            "depth": 149,
+            "height": 39,
+            "description": "DIE L\u00d6SUNG aus einem gro\u00dfz\u00fcgigen Regal und der modernen TV-Wohnkombination bietet einen Zweiklang aus der nat\u00fcrlichen Asteiche und dem modernen grau. So stellt sich eine angenehme Wohlf\u00fchlatmosph\u00e4re ein, die durch diverse Komfortfunktionen, wie z. B. den Tablarauszug noch einmal gesteigert wird."
+        },
+        {
+            "furnitureId": 5000,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "schwarz",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Cabinet_Black",
+                    "price": 999,
+                    "sku": "0042800011"
+                },
+                {
+                    "furnitureColourId": 2,
+                    "name": "grau",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Cabinet_Lightgrey",
+                    "price": 999,
+                    "sku": "0042800011"
+                },
+                {
+                    "furnitureColourId": 3,
+                    "name": "olive",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Cabinet_Olive",
+                    "price": 999,
+                    "sku": "0042800011"
+                },
+                {
+                    "furnitureColourId": 4,
+                    "name": "korall",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Mondo_Artist_011_Cabinet_Salmon",
+                    "price": 999,
+                    "sku": "0042800011"
+                }
+            ],
+            "isARWall": true,
+            "name": "Wohnwand Mondo Artist H\u00e4ngevitrine",
+            "width": 90,
+            "depth": 145,
+            "height": 35,
+            "description": "DIE L\u00d6SUNG aus einem gro\u00dfz\u00fcgigen Regal und der modernen TV-Wohnkombination bietet einen Zweiklang aus der nat\u00fcrlichen Asteiche und dem modernen grau. So stellt sich eine angenehme Wohlf\u00fchlatmosph\u00e4re ein, die durch diverse Komfortfunktionen, wie z. B. den Tablarauszug noch einmal gesteigert wird."
+        },
+        {
+            "furnitureId": 6100,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "braun",
+                    "materialName": "Eiche",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Musterring_Kara_Frame_Lowboard_Wood",
+                    "price": 999,
+                    "sku": "0052800012"
+                }
+            ],
+            "isARWall": false,
+            "name": "Wohnwand Musterring Kara Frame Lowboard",
+            "width": 272,
+            "depth": 47,
+            "height": 50,
+            "description": "Dieses topmoderne Systemprogramm ist ein Multitalent f\u00fcr jeden Raum. Wohn-, Ess-, und Arbeitsbereiche. TV- und Hifi-Ger\u00e4te finden ihren richtigen Platz. Integrierbare Technik sorgt f\u00fcr optimale Klangentfaltung, punktuelle LED-Beleuchtung setzt warme Akzente. "
+        },
+        {
+            "furnitureId": 5200,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "kaschmir",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Musterring_Kara_Frame_Cabinet_White",
+                    "price": 999,
+                    "sku": "0052800012"
+                }
+            ],
+            "isARWall": true,
+            "name": "Wohnwand Musterring Kara Frame H\u00e4ngevitrine",
+            "width": 47,
+            "depth": 143,
+            "height": 36,
+            "description": "Dieses topmoderne Systemprogramm ist ein Multitalent f\u00fcr jeden Raum. Wohn-, Ess-, und Arbeitsbereiche. TV- und Hifi-Ger\u00e4te finden ihren richtigen Platz. Integrierbare Technik sorgt f\u00fcr optimale Klangentfaltung, punktuelle LED-Beleuchtung setzt warme Akzente. "
+        },
+        {
+            "furnitureId": 5300,
+            "colour": [
+                {
+                    "furnitureColourId": 1,
+                    "name": "kaschmir",
+                    "materialName": "Lack",
+                    "tags": "tvunit",
+                    "path": "TV_Units/Musterring_Kara_Frame_Highboard_White",
+                    "price": 999,
+                    "sku": "0052800012"
+                }
+            ],
+            "isARWall": false,
+            "name": "Wohnwand Musterring Kara Frame Vitrine / Regal",
+            "width": 62,
+            "depth": 179,
+            "height": 40,
+            "description": "Dieses topmoderne Systemprogramm ist ein Multitalent f\u00fcr jeden Raum. Wohn-, Ess-, und Arbeitsbereiche. TV- und Hifi-Ger\u00e4te finden ihren richtigen Platz. Integrierbare Technik sorgt f\u00fcr optimale Klangentfaltung, punktuelle LED-Beleuchtung setzt warme Akzente. "
+        }
+    ]
+}
